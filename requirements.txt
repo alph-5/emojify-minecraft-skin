@@ -1,4 +1,4 @@
-flet
-requests
-pillow
-pyperclip
+flet==0.22.*
+pillow==10.5.0
+pyperclip==1.8.2
+requests==2.31.0
